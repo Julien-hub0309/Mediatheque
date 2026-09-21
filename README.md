@@ -89,24 +89,43 @@ L'interface de l'application bénéficie d'une **direction artistique soignée**
 Le projet adopte une structure modulaire et rigoureuse :
 .
 ├── config
+
 │   └── db.php
+
 ├── database
+
 │   ├── mediatheque_backup.sql
+
 │   └── schema.sql
+
 ├── includes
+
 │   ├── footer.php
+
 │   └── header.php
+
 ├── index.php
+
 ├── modules
+
 │   ├── css
+
 │   │   └── styles.css
+
 │   └── java
+
 │       └── script.js
+
 └── web
+
     ├── adherent.php
+    
     ├── emprunter.php
+    
     ├── emprunt.php
+    
     ├── livres.php
+    
     └── retour.php
 
 7. Difficultés Techniques Rencontrées et Résolutions
