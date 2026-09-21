@@ -87,7 +87,7 @@ L'interface de l'application bénéficie d'une **direction artistique soignée**
 
 ## 6. Architecture Logicielle et Organisation du Projet
 Le projet adopte une structure modulaire et rigoureuse :
-.
+
 ├── config
 
 │   └── db.php
