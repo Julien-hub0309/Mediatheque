@@ -117,16 +117,12 @@ Le projet adopte une structure modulaire et rigoureuse :
 │       └── script.js
 
 └── web
-
     ├── adherent.php
-    
     ├── emprunter.php
-    
     ├── emprunt.php
-    
     ├── livres.php
-    
     └── retour.php
+---
 
 7. Difficultés Techniques Rencontrées et Résolutions
 Au cours de la mise en œuvre de ce mini-projet, plusieurs points de blocage ont été identifiés et résolus par le binôme :
