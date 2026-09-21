@@ -117,11 +117,17 @@ Le projet adopte une structure modulaire et rigoureuse :
 │       └── script.js
 
 └── web
+
     ├── adherent.php
+    
     ├── emprunter.php
+    
     ├── emprunt.php
+    
     ├── livres.php
+    
     └── retour.php
+    
 ---
 
 7. Difficultés Techniques Rencontrées et Résolutions
